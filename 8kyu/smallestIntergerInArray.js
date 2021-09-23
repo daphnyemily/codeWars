@@ -1,4 +1,4 @@
-//https://www.codewars.com/kata/55a2d7ebe362935a210000b2/solutions/javascript
+//https://www.codewars.com/kata/55a2d7ebe362935a210000b2/solutions/javascript//
 
 class SmallestIntegerFinder {
     findSmallestInt(args) {
