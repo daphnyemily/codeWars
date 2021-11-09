@@ -12,8 +12,8 @@ function abbrevName(name){
   
   }
   //convert name to inicials - 2 words with space 
-  //.split sperates each word into own strings
+  //.split seperates each word into own strings
   //.charAt returns specific char
   // seperate letters with "."
   //concat
-  //letters allwats capital  .toUppercase
+  //letters allways capital  .toUppercase
